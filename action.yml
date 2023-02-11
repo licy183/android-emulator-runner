@@ -1,6 +1,6 @@
-name: 'Android Emulator Runner'
+name: 'Android Emulator Runner - with armeabi-v7a support'
 description: 'Installs, configures and starts an Android Emulator directly on macOS virtual machines.'
-author: 'Reactive Circus'
+author: 'licy183 - Forked from: Reactive Circus'
 branding:
   icon: 'smartphone'
   color: 'green'
